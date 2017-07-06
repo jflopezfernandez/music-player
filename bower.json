@@ -1,0 +1,17 @@
+{
+  "name": "music-player",
+  "description": "Lightweight, open-source music-player",
+  "main": "main.js",
+  "authors": [
+    "Jose Lopez"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lopezfjose/music-player",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
